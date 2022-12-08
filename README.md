@@ -21,3 +21,5 @@
 3. Set `REACT_APP` env variables
 4. `yarn start`
 # token-airdrop
+
+![My Image](token-airdrop.png)

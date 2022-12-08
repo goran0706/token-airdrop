@@ -1,0 +1,50 @@
+[
+  {
+    "chainId": 1,
+    "chainName": "Ethereum",
+    "nativeCurrency": { "name": "ETH", "decimals": 18, "symbol": "ETH" },
+    "rpcUrls": ["https://api.harmony.one"],
+    "blockExplorerUrls": ["https://etherscan.io/"],
+    "icon": "ethereum"
+  },
+  {
+    "chainId": 42161,
+    "chainName": "Arbitrum One",
+    "nativeCurrency": { "name": "AETH", "decimals": 18, "symbol": "AETH" },
+    "rpcUrls": ["https://arb1.arbitrum.io/rpc"],
+    "blockExplorerUrls": ["https://arbiscan.io/"],
+    "icon": "arbitrum"
+  },
+  {
+    "chainId": 10,
+    "chainName": "Optimistic Ethereum",
+    "nativeCurrency": { "name": "ETH", "decimals": 18, "symbol": "ETH" },
+    "rpcUrls": ["https://mainnet.optimism.io/"],
+    "blockExplorerUrls": ["https://optimistic.etherscan.io/"],
+    "icon": "optimism"
+  },
+  {
+    "chainId": 137,
+    "chainName": "Polygon Mainnet",
+    "nativeCurrency": { "name": "MATIC", "decimals": 18, "symbol": "MATIC" },
+    "rpcUrls": ["https://polygon-rpc.com/"],
+    "blockExplorerUrls": ["https://polygonscan.com/"],
+    "icon": "polygon"
+  },
+  {
+    "chainId": 56,
+    "chainName": "Smart Chain",
+    "nativeCurrency": { "name": "BNB", "decimals": 18, "symbol": "BNB" },
+    "rpcUrls": ["https://bsc-dataseed.binance.org/"],
+    "blockExplorerUrls": ["https://bscscan.com"],
+    "icon": "bsc"
+  },
+  {
+    "chainId": 250,
+    "chainName": "Fantom Opera",
+    "nativeCurrency": { "name": "FTM", "decimals": 18, "symbol": "FTM" },
+    "rpcUrls": ["https://rpc.ftm.tools/"],
+    "blockExplorerUrls": ["https://ftmscan.com/"],
+    "icon": "fantom"
+  }
+]
